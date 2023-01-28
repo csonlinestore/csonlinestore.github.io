@@ -212,7 +212,10 @@ header .container {
 }
 
 .person {
-  width: 123%;
+  width: 127%;
+  height: 100%;
+  margin-left; -40%;
+  border-radius: 20%;
   transform: translate(15%, 25px);
 }
 
@@ -360,8 +363,11 @@ header .container {
   }
 
   .person {
-    width: 100%;
-    transform: none;
+    width: 300%;
+    height: 200px;
+    margin-left: -20%;
+    border-radius: 20%;
+
   }
 
   .logo h3 {
