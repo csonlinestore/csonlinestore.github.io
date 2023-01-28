@@ -214,7 +214,7 @@ header .container {
 .person {
   width: 127%;
   height: 100;
-
+  margin-right: 50%;
   border-radius: 20%;
 }
 
