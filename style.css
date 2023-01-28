@@ -364,7 +364,7 @@ header .container {
   .person {
     width: 300%;
     height: 200px;
-    margin-left: -50%;
+    margin-right: 50%;
     border-radius: 20%;
 
   }
